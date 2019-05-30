@@ -6,6 +6,6 @@
 - math support [Intro.](https://www.jianshu.com/p/1ff6e833e2e6)
 
 ## Calibre
-- calibre tsmc65 rules [rules](./cal/calibre.md)
+- calibre tsmc65 rules [Check Here](./cal/calibre.md)
 
 
