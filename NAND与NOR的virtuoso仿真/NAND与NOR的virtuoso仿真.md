@@ -10,6 +10,7 @@
 
 ### 2.仿真设置
  check and save后，打开ADE L窗口，在analyses一栏中进行如下设置：
+
 ![Alt text](https://github.com/very3b/Susee/blob/master/NAND%E4%B8%8ENOR%E7%9A%84virtuoso%E4%BB%BF%E7%9C%9F/%E5%9B%BE%E7%89%874.png)
 
 ### 3.设置输入输出
