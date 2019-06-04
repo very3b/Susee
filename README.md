@@ -2,6 +2,7 @@
 
 ## CAD tutorial
 - inverter layout, DRC, LVS [PDF](./inverter/t1_inverter.pdf)
+- NAND、NOR-virtuoso-simulation
 
 ## Tools
 ### Markdown
