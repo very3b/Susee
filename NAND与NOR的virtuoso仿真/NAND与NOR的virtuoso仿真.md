@@ -4,7 +4,8 @@
  搭建NAND的电路,其中电源vdc=1.5v，负载cap的capacitance=100f，两输入端选用vpulse，其中V1和V2的参数如下：
 ![Alt text](https://github.com/very3b/Susee/blob/NAND%E4%B8%8ENOR%E7%9A%84virtuoso%E4%BB%BF%E7%9C%9F/NAND%E4%B8%8ENOR%E7%9A%84virtuoso%E4%BB%BF%E7%9C%9F/%E5%9B%BE%E7%89%871.png)
 ![Alt text](https://github.com/very3b/Susee/blob/NAND%E4%B8%8ENOR%E7%9A%84virtuoso%E4%BB%BF%E7%9C%9F/NAND%E4%B8%8ENOR%E7%9A%84virtuoso%E4%BB%BF%E7%9C%9F/%E5%9B%BE%E7%89%872.png)
- 电路搭建如图所示：
+
+电路搭建如图所示：
 ![Alt text](https://github.com/very3b/Susee/blob/NAND%E4%B8%8ENOR%E7%9A%84virtuoso%E4%BB%BF%E7%9C%9F/NAND%E4%B8%8ENOR%E7%9A%84virtuoso%E4%BB%BF%E7%9C%9F/%E5%9B%BE%E7%89%873.png)
 
 ### 2.仿真设置
