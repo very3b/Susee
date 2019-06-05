@@ -2,6 +2,7 @@
 
 ## CAD tutorial
 - inverter layout, DRC, LVS [PDF](./inverter/t1_inverter.pdf)
+- NAND、NOR-virtuoso-simulation [check here](NAND、NOR-virtuoso-simulation/NAND与NOR的virtuoso仿真.md)
 
 ## Tools
 ### Markdown
@@ -16,3 +17,9 @@
 	- [Download](https://www.analog.com/media/en/technical-documentation/data-sheets/AD9361.pdf) 
 	- [Register Map](https://www.analog.com/media/cn/technical-documentation/user-guides/AD9364_Register_Map_Reference_Manual_UG-672.pdf)
 
+
+
+
+## Advanced Topics
+
+- thermal simualtion ![links](./thermal/README.md)
