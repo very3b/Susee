@@ -24,3 +24,6 @@
 ## Advanced Topics
 
 - thermal simualtion ![links](./thermal/README.md)
+
+## AD
+- 24RC ![links](https://github.com/very3b/Susee/tree/master/AD)
