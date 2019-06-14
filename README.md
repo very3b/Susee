@@ -26,4 +26,4 @@
 - thermal simualtion ![links](./thermal/README.md)
 
 ## sonnect
-- install ![check here](install sonnet.md)
+- install ![check here](Susee/dff-virtuoso-simulation.md)
