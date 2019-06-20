@@ -26,4 +26,4 @@
 - thermal simualtion ![links](./thermal/README.md)
 
 ## sonnect
-- install ![check here](https://github.com/very3b/Susee/blob/master/install%20sonnet.md)
+- install ![check here](app/install sonnet.md)
