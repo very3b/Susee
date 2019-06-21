@@ -1,4 +1,9 @@
 # IC Design Tutorial Series
+## Reference
+- CMOS_VLSI_Design_A_Circuits_and_Systems_Perspective_4th_Edition ![ebook](./app/cmos_vlsi.pdf)
+
+- logic cells cadence library $proj/jflin/SG13_dev_logic_library
+
 
 ## CAD tutorial
 - inverter layout, DRC, LVS [PDF](./inverter/t1_inverter.pdf)
@@ -12,10 +17,6 @@
 
 ## Calibre
 - calibre tsmc65 rules [Check Here](./cal/calibre.md)
-
-## Reference
-- CMOS_VLSI_Design_A_Circuits_and_Systems_Perspective_4th_Edition ![ebook](./app/cmos_vlsi.pdf)
-
 
 
 ## Advanced Topics
