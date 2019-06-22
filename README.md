@@ -8,7 +8,7 @@
 ## CAD tutorial
 - inverter layout, DRC, LVS [PDF](./inverter/t1_inverter.pdf)
 - NAND、NOR-virtuoso-simulation [check here](NAND、NOR-virtuoso-simulation/NAND与NOR的virtuoso仿真.md)
-- dff-virtuoso-simulation[check here](dff/dff-virtuoso-simulation.md)
+- latch、flip-flop[check here](dff/dff-virtuoso-simulation.md)
 - add library [check here](https://github.com/very3b/Susee/blob/master/add%20library.md)
 
 ## Tools
