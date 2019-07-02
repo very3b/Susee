@@ -10,7 +10,7 @@
 - NAND、NOR-virtuoso-simulation [check here](NAND、NOR-virtuoso-simulation/NAND与NOR的virtuoso仿真.md)
 - latch、flip-flop[check here](dff/dff-virtuoso-simulation.md)
 - add library [check here](https://github.com/very3b/Susee/blob/master/add%20library.md)
-- 3-8decoder [link](3-8decoder.md)
+- 3-8decoder [check here](3-8decoder.md)
 
 ## Tools
 ### Markdown
