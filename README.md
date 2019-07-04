@@ -1,16 +1,29 @@
 # IC Design Tutorial Series
 ## Reference
 - CMOS_VLSI_Design_A_Circuits_and_Systems_Perspective_4th_Edition ![ebook](./app/cmos_vlsi.pdf)
+- CMOS circuit design![ebook](./app/baker.pdf)
 
 - logic cells cadence library $proj/jflin/SG13_dev_logic_library
 
 
 ## CAD tutorial
-- inverter layout, DRC, LVS [PDF](./inverter/t1_inverter.pdf)
-- NAND、NOR-virtuoso-simulation [check here](NAND、NOR-virtuoso-simulation/NAND与NOR的virtuoso仿真.md)
-- latch、flip-flop[check here](dff/dff-virtuoso-simulation.md)
-- add library [check here](https://github.com/very3b/Susee/blob/master/add%20library.md)
-- 3-8decoder [check here](3-8decoder.md)
+
+### Digital
+1. inverter layout, DRC, LVS [PDF](./inverter/t1_inverter.pdf)
+1. NAND、NOR-virtuoso-simulation [check here](NAND、NOR-virtuoso-simulation/NAND与NOR的virtuoso仿真.md)
+1. latch、flip-flop[check here](dff/dff-virtuoso-simulation.md)
+1. add library [check here](https://github.com/very3b/Susee/blob/master/add%20library.md)
+1. 3-8decoder [check here](3-8decoder.md)
+
+### Analog
+
+1. MOS characterizaion
+
+1. Current Mirror
+
+1. Differential Amplifier
+
+1. Two Stage Amplifier
 
 ## Tools
 ### Markdown
