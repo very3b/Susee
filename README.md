@@ -30,17 +30,21 @@
 1. Two Stage Amplifier
 
 ## Tools
+### Verification
+* Calibre
+	- calibre tsmc65 rules [Check Here](./cal/calibre.md)
+
+* EM simulator
+	- install ![check here](https://github.com/very3b/Susee/blob/master/app/install%20sonnet.md)
+
+* thermal simulator
+	- thermal simualtion ![links](./thermal/README.md)
+
 ### Markdown
 - github Haroopad [Download](./app/Haroopad-v0.13.1-win-x64.zip)
 - math support [Intro.](https://www.jianshu.com/p/1ff6e833e2e6)
 
-## Calibre
-- calibre tsmc65 rules [Check Here](./cal/calibre.md)
 
 
-## Advanced Topics
 
-- thermal simualtion ![links](./thermal/README.md)
 
-## sonnect
-- install ![check here](https://github.com/very3b/Susee/blob/master/app/install%20sonnet.md)
