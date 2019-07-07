@@ -21,7 +21,7 @@
 
 ### Analog
 
-1. MOS characterizaion  (to be added)
+1. MOS characterizaion  [check here](nmos-analog.md)
 
 1. Current Mirror(to be added)
 
