@@ -3,7 +3,6 @@
 - CMOS_VLSI_Design_A_Circuits_and_Systems_Perspective_4th_Edition ![ebook](./app/cmos_vlsi.pdf)
 - CMOS circuit design![ebook](./app/baker.pdf)
 
-- logic cells cadence library $proj/jflin/SG13_dev_logic_library
 
 
 ## CAD tutorial
@@ -21,13 +20,19 @@
 
 ### Analog
 
-1. MOS characterizaion  [check here](nmos-analog.md)
+1. MOS characterization  [check here](nmos-analog.md)
 
 1. Current Mirror(to be added)
 
 1. Differential Amplifier
 
 1. Two Stage Amplifier
+
+1. BGR Design Example
+
+1. LDO Design Example 
+
+1. ADE-xl Corner& Monte Carlo Simulation
 
 
 ### RF 
