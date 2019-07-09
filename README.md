@@ -29,13 +29,33 @@
 
 1. Two Stage Amplifier
 
+
+### RF 
+
+1. RF Basics (Smith Chart, 2-port Parameters)
+
+1. Inductor and Transformer(ANSYS EM) 
+	* EM simulator
+		- install ![check here](https://github.com/very3b/Susee/blob/master/app/install%20sonnet.md)
+
+
+1. LNA (SP simulation and PSS )
+
+
+### Digital Flow
+
+1. RTL design
+
+1. Design compile
+
+1. Placement & Routing
+
+
+
 ## Tools
 ### Verification
 * Calibre
 	- calibre tsmc65 rules [Check Here](./cal/calibre.md)
-
-* EM simulator
-	- install ![check here](https://github.com/very3b/Susee/blob/master/app/install%20sonnet.md)
 
 * thermal simulator
 	- thermal simualtion ![links](./thermal/README.md)
