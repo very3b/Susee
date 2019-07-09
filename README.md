@@ -39,8 +39,8 @@
 
 1. RF Basics (Smith Chart, 2-port Parameters)
 
-1. Inductor and Transformer(ANSYS EM) 
-	* EM simulator
+1. Inductor and Transformer(EM Simulation)  
+	* EM simulator 
 		- install ![check here](https://github.com/very3b/Susee/blob/master/app/install%20sonnet.md)
 
 
