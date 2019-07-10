@@ -22,7 +22,7 @@
 
 1. MOS characterization  [check here](nmos-analog.md)
 
-1. Current Mirror(to be added)
+1. Current Mirror  [check here](current-mirror.md)
 
 1. Differential Amplifier
 
