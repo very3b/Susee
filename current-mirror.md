@@ -1,7 +1,11 @@
 # A、基本电流镜
 ## 一、搭建电路
+对于基本电流镜，忽略沟道长度调制时，输出电流与输入电流有如下关系式：
+$$Iout=\frac{(W/L)_2}{(W/L)_1}I_REF
+
+$$
 搭建基本电流镜电路，其中电流源的器件名为idc，设置两边nmos的W/L相等。如下图所示：
-![text](https://github.com/dailiuyao/markdown-photos/blob/master/current%20mirror/%E7%94%B5%E8%B7%AF.png)
+![text](https://github.com/dailiuyao/markdown-photos/blob/master/current%20mirror/schematic.png)
 ![text](https://github.com/dailiuyao/markdown-photos/blob/master/current%20mirror/idc.png)
 ![text](https://github.com/dailiuyao/markdown-photos/blob/master/current%20mirror/vdc.png)
 
