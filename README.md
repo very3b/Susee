@@ -24,7 +24,7 @@
 
 1. Current Mirror  [check here](current-mirror.md)
 
-1. Differential Amplifier
+1. Differential Amplifier [check here](differential-amplifier/differential-amplifier-big.md)
 
 1. Two Stage Amplifier
 
