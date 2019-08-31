@@ -1,4 +1,9 @@
 # IC Design Tutorial Series
+
+## Process Setup
+1. GF 130nm 8XP SiGe RF ![SIGE](./srv/README.md)
+
+
 ## Reference
 - CMOS_VLSI_Design_A_Circuits_and_Systems_Perspective_4th_Edition ![ebook](./app/cmos_vlsi.pdf)
 - CMOS circuit design![ebook](./app/baker.pdf)
