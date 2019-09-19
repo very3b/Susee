@@ -2,7 +2,7 @@
 
 ## Process Setup
 1. GF 130nm 8XP SiGe RF ![SIGE](./srv/README.md)
-
+1. GF project setup DRC/LVS ![GF](https://github.com/very3b/2019icprojects/blob/master/cadence%20open%20PDK.md)
 
 ## Reference
 - CMOS_VLSI_Design_A_Circuits_and_Systems_Perspective_4th_Edition ![ebook](./app/cmos_vlsi.pdf)
@@ -46,7 +46,6 @@
 
 1. Inductor and Transformer(EM Simulation)  
 	* EM simulator 
-		- install ![check here](https://github.com/very3b/Susee/blob/master/app/install%20sonnet.md)
 
 
 1. LNA (SP simulation and PSS )
