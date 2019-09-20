@@ -40,7 +40,7 @@ impedance transform project using Smith tool ![Smith Tool](https://github.com/ve
  **by Liuyao dai **
 
 1. Inductor and Transformer(EM Simulation)  
-![momentum inductor simulation ](https://github.com/very3b/2019icprojects/blob/master/Simulation%20of%20an%20inductor%20using%20ADS/Procedure.md) **by Wanli Zhang **
+![momentum](https://github.com/very3b/2019icprojects/blob/master/Simulation%20of%20an%20inductor%20using%20ADS/Procedure.md) **by Wanli Zhang **
 
 1. LNA (SP simulation and PSS )
 
