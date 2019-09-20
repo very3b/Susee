@@ -38,7 +38,7 @@
 1. RF Basics (Smith Chart, 2-port Parameters)
 	- impedance transform project using Smith tool ![Smith Tool](https://github.com/very3b/Susee/blob/master/smith.md)
 1. Inductor and Transformer(EM Simulation)  
-	- ![momentum inductor simulation] (https://github.com/very3b/2019icprojects/blob/master/Simulation%20of%20an%20inductor%20using%20ADS/Procedure.md)
+![momentum inductor simulation ](https://github.com/very3b/2019icprojects/blob/master/Simulation%20of%20an%20inductor%20using%20ADS/Procedure.md)
 
 1. LNA (SP simulation and PSS )
 
@@ -64,16 +64,12 @@
 * Calibre
 	- calibre tsmc65 rules [Check Here](./cal/calibre.md)
 
-* thermal simulator
-	- thermal simualtion ![links](./thermal/README.md)
+## Reference
+- CMOS_VLSI_Design_A_Circuits_and_Systems_Perspective_4th_Edition ![ebook](./app/cmos_vlsi.pdf)
+- CMOS circuit design![ebook](./app/baker.pdf)
+
 
 ### Markdown
 - github Haroopad [Download](./app/Haroopad-v0.13.1-win-x64.zip)
 - math support [Intro.](https://www.jianshu.com/p/1ff6e833e2e6)
-
-
-
-## Reference
-- CMOS_VLSI_Design_A_Circuits_and_Systems_Perspective_4th_Edition ![ebook](./app/cmos_vlsi.pdf)
-- CMOS circuit design![ebook](./app/baker.pdf)
 
