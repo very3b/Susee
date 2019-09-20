@@ -30,7 +30,7 @@
 
 1. LDO Design Example 
 
-1. ADE-xl Corner& Monte Carlo Simulation
+
 
 
 ### RF 
@@ -38,7 +38,7 @@
 1. RF Basics (Smith Chart, 2-port Parameters)[Smith Tool](https://github.com/very3b/Susee/blob/master/smith.md) **by Liuyao dai**
 
 1. Inductor and Transformer(EM Simulation)  
-[momentum](https://github.com/very3b/2019icprojects/blob/master/Simulation%20of%20an%20inductor%20using%20ADS/Procedure.md) **by Wanli Zhang**
+[momentum](https://github.com/very3b/2019icprojects/blob/master/Simulation%20of%20an%20inductor%20using%20ADS/Procedure.md) **by Wanli Zhan**
 1. On-Chip transformer Design (to be updated by Wanli)
 
 1. LNA (SP simulation and PSS )
@@ -59,7 +59,7 @@
 
 1. NPN transistor Simulation [link](https://github.com/very3b/2019icprojects/blob/master/npnbeta-verify.md)  **by Huiyang Li**
 
-
+1. BiCMOS ADE-xl Corner& Monte Carlo Simulation (to be updated by Huiyang)
 
 ## Tools
 ### Verification
