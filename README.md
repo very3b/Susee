@@ -1,12 +1,5 @@
 # IC Design Tutorial Series
 
-## Process Setup
-1. GF 130nm 8XP SiGe RF ![SIGE](./srv/README.md)
-1. GF project setup DRC/LVS ![GF](https://github.com/very3b/2019icprojects/blob/master/cadence%20open%20PDK.md)
-
-## Reference
-- CMOS_VLSI_Design_A_Circuits_and_Systems_Perspective_4th_Edition ![ebook](./app/cmos_vlsi.pdf)
-- CMOS circuit design![ebook](./app/baker.pdf)
 
 
 
@@ -45,8 +38,7 @@
 1. RF Basics (Smith Chart, 2-port Parameters)
 	- impedance transform project using Smith tool ![Smith Tool](https://github.com/very3b/Susee/blob/master/smith.md)
 1. Inductor and Transformer(EM Simulation)  
-	* EM simulator 
-
+	- ![momentum inductor simulation] (https://github.com/very3b/2019icprojects/blob/master/Simulation%20of%20an%20inductor%20using%20ADS/Procedure.md)
 
 1. LNA (SP simulation and PSS )
 
@@ -58,6 +50,12 @@
 1. Design compile
 
 1. Placement & Routing
+
+## Process Setup  BiCMOS
+1. GF 130nm 8XP SiGe RF ![SIGE](./srv/README.md)
+1. GF project setup DRC/LVS ![GF](https://github.com/very3b/2019icprojects/blob/master/cadence%20open%20PDK.md)  by Huiyang Li
+1. BiCMOS Process Overview ![link] (https://github.com/very3b/2019icprojects/blob/master/KeypointDesignManual/keypoint.md ) by Huiyang Li
+1. NPN transistor Simulation ![link] (https://github.com/very3b/2019icprojects/blob/master/npnbeta-verify.md) by Huiyang Li
 
 
 
@@ -75,5 +73,7 @@
 
 
 
-
+## Reference
+- CMOS_VLSI_Design_A_Circuits_and_Systems_Perspective_4th_Edition ![ebook](./app/cmos_vlsi.pdf)
+- CMOS circuit design![ebook](./app/baker.pdf)
 
