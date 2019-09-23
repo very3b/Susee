@@ -58,7 +58,7 @@
 
 1. NPN transistor Simulation [link](https://github.com/very3b/2019icprojects/blob/master/npnbeta-verify.md)  **by Huiyang Li**
 
-1. NPN S-parameter simulaiton [link](https://github.com/very3b/2019icprojects/blob/master/KeypointDesignManual/SparameterConerMonte.md) **by Huiyang Li**
+1. NPN S-parameter simulaiton  [link](https://github.com/very3b/2019icprojects/blob/master/KeypointDesignManual/SparameterConerMonte.md) **by Huiyang Li**
 
 1. BiCMOS ADE-xl Corner& Monte Carlo Simulation (to be updated by Huiyang)
 
