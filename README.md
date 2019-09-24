@@ -53,7 +53,8 @@
 
 ## Process Setup  BiCMOS
 1. GF 130nm 8XP SiGe RF [SIGE](./srv/README.md)
-1. GF project setup DRC/LVS [GF](https://github.com/very3b/2019icprojects/blob/master/cadence%20open%20PDK.md)  **by Huiyang Li**
+1. GF project setup DRC/LVS [GF](https://github.com/very3b/2019icprojects/blob/master/setupDRC-LVS/cadence%20open%20PDK.md)  **by Huiyang Li**
+
 1. BiCMOS Process Overview [link](https://github.com/very3b/2019icprojects/blob/master/KeypointDesignManual/keypoint.md )  **by Huiyang Li**
 
 1. NPN transistor Simulation [link](https://github.com/very3b/2019icprojects/blob/master/npnbeta-verify.md)  **by Huiyang Li**
