@@ -70,7 +70,7 @@
 
 
 ## Engineering Basics
- - LVDS [LVDS interface](http://literature.cdn.keysight.com/litweb/pdf/5988-4797EN.pdf)
+ - LVDS [Low-Voltage Differential Signaling (LVDS)](http://literature.cdn.keysight.com/litweb/pdf/5988-4797EN.pdf)
 ## Reference
 - CMOS_VLSI_Design_A_Circuits_and_Systems_Perspective_4th_Edition ![ebook](./app/cmos_vlsi.pdf)
 - CMOS circuit design![ebook](./app/baker.pdf)
