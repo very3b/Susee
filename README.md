@@ -39,8 +39,7 @@
 
 1. Inductor and Transformer(EM Simulation)[momentum](https://github.com/very3b/2019icprojects/blob/master/Simulation%20of%20an%20inductor%20using%20ADS/Procedure.md) **by Wanli Zhan**
 
-[Cadence_Virtuoso_Momentum_Sim] 
-(https://github.com/very3b/2019icprojects/blob/master/cadence-momentum-inductor/Momentum.md)  **by Huiyang Li**
+[Cadence_Virtuoso_Momentum_Sim](https://github.com/very3b/2019icprojects/blob/master/cadence-momentum-inductor/Momentum.md)  **by Huiyang Li**
 
 1. On-Chip transformer Design 
 [Transformer_Design_on-chip](https://github.com/very3b/2019icprojects/blob/master/Design%20of%20transformer%20balun/Design%20of%20transformer%20balun.md)  **by Wanli Zhan**
