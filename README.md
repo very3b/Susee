@@ -36,6 +36,8 @@
 ### RF 
 
 1. RF Basics (Smith Chart, 2-port Parameters)[Smith Tool](https://github.com/very3b/Susee/blob/master/smith.md)**by Liuyao dai**
+
+1. S-parameter [T-type resistive attenuator](https://github.com/very3b/Susee/blob/master/S_parameters_simulation.md) **by Liuyao dai**
                                              [S parameters_simulation](S_parameters_simulation.md)**by Liuyao dai**
 1. Inductor and Transformer(EM Simulation)[momentum](https://github.com/very3b/2019icprojects/blob/master/Simulation%20of%20an%20inductor%20using%20ADS/Procedure.md) **by Wanli Zhan**
 
