@@ -12,7 +12,7 @@
 ![text](https://github.com/dailiuyao/markdown-photos/blob/master/RLC_S_simulation/%E4%BB%BF%E7%9C%9F%E7%BB%93%E6%9E%9C.png)
 
 # 二、3R电路的S参数仿真及验证
-##搭建电路：
+## 搭建电路：
 ![3R](https://github.com/dailiuyao/markdown-photos/blob/master/RLC_S_simulation/3R.png)
 ![3R_tb](https://github.com/dailiuyao/markdown-photos/blob/master/RLC_S_simulation/3R_tb.png)
 
