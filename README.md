@@ -35,8 +35,8 @@
 
 ### RF 
 
-1. RF Basics (Smith Chart, 2-port Parameters)[Smith Tool](https://github.com/very3b/Susee/blob/master/smith.md) **by Liuyao dai**
-
+1. RF Basics (Smith Chart, 2-port Parameters)[Smith Tool](https://github.com/very3b/Susee/blob/master/smith.md)**by Liuyao dai**
+                                             [RLC_S parameters_simulation](RLC_S_simulation.md)**by Liuyao dai**
 1. Inductor and Transformer(EM Simulation)[momentum](https://github.com/very3b/2019icprojects/blob/master/Simulation%20of%20an%20inductor%20using%20ADS/Procedure.md) **by Wanli Zhan**
 
 1. [Cadence_Virtuoso_Momentum_Sim](https://github.com/very3b/2019icprojects/blob/master/cadence-momentum-inductor/Momentum.md)  **by Huiyang Li**
