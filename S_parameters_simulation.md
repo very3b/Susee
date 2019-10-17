@@ -21,14 +21,15 @@
 
 ## 计算结果：
 Z参数的计算：
-$$Z_{11}=Z_A+Z_C=2K &emsp; Ohm$$
-$$Z_{12}=Z_C=1K &emsp; Ohm$$
-$$Z_{21}=Z_C=1 K &emsp; Ohm$$
-$$Z_{22}=Z_B+Z_C=2 K &emsp; Ohm$$
+![](https://github.com/dailiuyao/markdown-photos/blob/master/RLC_S_simulation/%E5%85%AC%E5%BC%8F/CodeCogsEqn.gif)
+![](https://github.com/dailiuyao/markdown-photos/blob/master/RLC_S_simulation/%E5%85%AC%E5%BC%8F/CodeCogsEqn%20(1).gif)
+![](https://github.com/dailiuyao/markdown-photos/blob/master/RLC_S_simulation/%E5%85%AC%E5%BC%8F/CodeCogsEqn%20(2).gif)
+![](https://github.com/dailiuyao/markdown-photos/blob/master/RLC_S_simulation/%E5%85%AC%E5%BC%8F/CodeCogsEqn%20(3).gif)
+
 
 S参数的计算：
-$$△Z=（Z_{11}+Z_0）（Z_{22}+Z_0）-Z_{12}Z_{21}=2050^2-1000^2 &emsp; Ohm$$
-$$S_{11}=\frac{3000000-2500}{2050^2-1000000}=0.93598$$
-$$S_{22}=S_{11}=0.93598$$
-$$S_{12}=Z_{21}=\frac{2Z_{12}Z_0}{△Z}=0.0312256$$
+![](https://github.com/dailiuyao/markdown-photos/blob/master/RLC_S_simulation/%E5%85%AC%E5%BC%8F/CodeCogsEqn%20(4).gif)
+![](https://github.com/dailiuyao/markdown-photos/blob/master/RLC_S_simulation/%E5%85%AC%E5%BC%8F/CodeCogsEqn%20(5).gif)
+![](https://github.com/dailiuyao/markdown-photos/blob/master/RLC_S_simulation/%E5%85%AC%E5%BC%8F/CodeCogsEqn%20(6).gif)
+![](https://github.com/dailiuyao/markdown-photos/blob/master/RLC_S_simulation/%E5%85%AC%E5%BC%8F/CodeCogsEqn%20(7).gif)
 计算结果与仿真结果相符。
