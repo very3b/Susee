@@ -20,14 +20,14 @@
 ![tb](https://github.com/dailiuyao/markdown-photos/blob/master/RLC_S_simulation/3R_tb_%E7%BB%93%E6%9E%9C.png)
 
 ## 计算结果：
-Z参数的计算：
+Z参数的计算：  
 ![](https://github.com/dailiuyao/markdown-photos/blob/master/RLC_S_simulation/%E5%85%AC%E5%BC%8F/CodeCogsEqn.gif)  
 ![](https://github.com/dailiuyao/markdown-photos/blob/master/RLC_S_simulation/%E5%85%AC%E5%BC%8F/CodeCogsEqn%20(1).gif)  
 ![](https://github.com/dailiuyao/markdown-photos/blob/master/RLC_S_simulation/%E5%85%AC%E5%BC%8F/CodeCogsEqn%20(2).gif)  
 ![](https://github.com/dailiuyao/markdown-photos/blob/master/RLC_S_simulation/%E5%85%AC%E5%BC%8F/CodeCogsEqn%20(3).gif)  
 
 
-S参数的计算：
+S参数的计算：  
 ![](https://github.com/dailiuyao/markdown-photos/blob/master/RLC_S_simulation/%E5%85%AC%E5%BC%8F/CodeCogsEqn%20(4).gif)  
 ![](https://github.com/dailiuyao/markdown-photos/blob/master/RLC_S_simulation/%E5%85%AC%E5%BC%8F/CodeCogsEqn%20(5).gif)  
 ![](https://github.com/dailiuyao/markdown-photos/blob/master/RLC_S_simulation/%E5%85%AC%E5%BC%8F/CodeCogsEqn%20(6).gif)  
