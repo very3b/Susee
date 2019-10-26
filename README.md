@@ -71,22 +71,9 @@
 
 1. BiCMOS ADE-xl Corner& Monte Carlo Simulation (to be updated by Huiyang)
 
-## Tools
-### Verification
-* Calibre
-- calibre tsmc65 rules [Check Here](./cal/calibre.md)
 
 
-## Engineering Basics
- - LVDS [Low-Voltage Differential Signaling (LVDS)](http://literature.cdn.keysight.com/litweb/pdf/5988-4797EN.pdf)
-## Reference
-- CMOS_VLSI_Design_A_Circuits_and_Systems_Perspective_4th_Edition ![ebook](./app/cmos_vlsi.pdf)
-- CMOS circuit design![ebook](./app/baker.pdf)
 
-
-### Markdown
-- github Haroopad [Download](./app/Haroopad-v0.13.1-win-x64.zip)
-- math support [Intro.](https://www.jianshu.com/p/1ff6e833e2e6)
 
 ## Lab 
 - [Gadgets](https://github.com/very3b/2019icprojects/blob/master/LabList.md)
@@ -95,3 +82,16 @@
 
 ## Bug Tracker
 - [ADS](https://github.com/very3b/2019icprojects/blob/master/ADS%20bug/ADS%20bug.md)
+- [calibre tsmc65 rules](./cal/calibre.md)
+
+
+
+
+
+## Reference
+- CMOS_VLSI_Design_A_Circuits_and_Systems_Perspective_4th_Edition ![ebook](./app/cmos_vlsi.pdf)
+- CMOS circuit design![ebook](./app/baker.pdf)
+
+## Markdown
+- github Haroopad [Download](./app/Haroopad-v0.13.1-win-x64.zip)
+- math support [Intro.](https://www.jianshu.com/p/1ff6e833e2e6)
