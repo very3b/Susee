@@ -88,3 +88,7 @@
 - github Haroopad [Download](./app/Haroopad-v0.13.1-win-x64.zip)
 - math support [Intro.](https://www.jianshu.com/p/1ff6e833e2e6)
 
+## Lab 
+- [Gadgets](https://github.com/very3b/2019icprojects/blob/master/LabList.md)
+- [Equipment Lists] (https://github.com/very3b/2019icprojects/blob/master/LabList.md)
+
