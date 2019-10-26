@@ -90,5 +90,8 @@
 
 ## Lab 
 - [Gadgets](https://github.com/very3b/2019icprojects/blob/master/LabList.md)
-- [Equipment Lists] (https://github.com/very3b/2019icprojects/blob/master/LabList.md)
+- [Equipment Lists](https://github.com/very3b/2019icprojects/blob/master/LabList.md)
 
+
+## Bug Tracker
+- [ADS](https://github.com/very3b/2019icprojects/blob/master/ADS%20bug/ADS%20bug.md)
