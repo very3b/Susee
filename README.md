@@ -72,7 +72,7 @@
 1. BiCMOS ADE-xl Corner& Monte Carlo Simulation (to be updated by Huiyang)
 
 
-1 [ADS dynamic link simulation](https://github.com/very3b/2019icprojects/blob/master/ADSDynamicLink/ADSDynamicLink.md) **by Huiyang Li**
+1. [ADS dynamic link simulation](https://github.com/very3b/2019icprojects/blob/master/ADSDynamicLink/ADSDynamicLink.md) **by Huiyang Li**
 
 
 ## Lab 
